@@ -12,7 +12,7 @@
  
  🔭 I’m currently study on **Bandung Polythecnic of Manufacture**
  
- 🌱 I’m currently learning **Machine Learning, Python, React, Laravel**
+ 🌱 I’m currently learning **Machine Learning, Python, Flutter, Laravel**
 
  </div>
 
@@ -33,7 +33,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=flutter,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,c,mysql" /><br>
 </div>
 
